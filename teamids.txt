@@ -1,20 +1,20 @@
-38    # Manchester United
-33    # Manchester City
-50    # Liverpool
-34    # Arsenal
-35    # Chelsea
-37    # Tottenham
-40    # Newcastle
-42    # Aston Villa
-39    # Brighton
-51    # West Ham
-52    # Crystal Palace
-36    # Everton
-45    # Wolves
-49    # Fulham
-47    # Brentford
-53    # Nottingham Forest
-54    # Bournemouth
-55    # Leicester
-56    # Ipswich
-57    # Southampton
+38
+33
+50
+34
+35
+37
+40
+42
+39
+51
+52
+36
+45
+49
+47
+53
+54
+55
+56
+57
